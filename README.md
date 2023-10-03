@@ -1,1 +1,3 @@
-# House-Price
+# House-Price Prediction
+Problem Statement
+The real estate markets present an interesting opportunity for data analysts to analyze and predict where property prices are moving upwards. Prediction of property prices is becoming increasingly important and beneficial. Property prices are a good indicator of both the overall market condition and the economic health of a country. The buyers are just not concerned only about the size(square feet) of the house but there are various other factors that play a key role to decide the price of a house/property. Considering the data provided, we are wrangling a large set of property sales records with unknown data quality issue
