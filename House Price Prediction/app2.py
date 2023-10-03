@@ -33,7 +33,7 @@ model=pickle.load(open('model (1).pkl','rb'))
 def home():
     return render_template("index.html")
 @app.route("/predict", methods=['POST',['GET']])
-def predict1():
+def predict():
     if request.method == 'POST':
         area = int(request.form['area'])
         bathrooms = int(request.form['bathrooms'])
